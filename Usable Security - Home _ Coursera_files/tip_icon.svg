@@ -1,0 +1,19 @@
+<svg width="22px" height="36px" viewBox="21 14 22 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#55CDEF" offset="0%"></stop>
+            <stop stop-color="#3BAFDA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#48CFAD" offset="0%"></stop>
+            <stop stop-color="#3BAFDA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="lightbulb-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(21.333333, 14.222222)">
+        <path d="M10.6491803,0.397814208 C4.99628415,0.397814208 0.397814208,4.69240437 0.397814208,9.97112568 C0.397814208,12.3801967 2.18814208,18.1810055 2.5308306,18.9476612 C2.82079781,19.5964262 3.07415301,20.2488525 3.31945355,20.8793115 C4.59574863,24.1641421 5.60331148,26.7584699 10.6491803,26.7584699 C15.5434754,26.7584699 16.897388,23.4736393 18.3303825,19.9954973 C18.4739016,19.6484153 18.6166885,19.3013333 18.7624044,18.959377 C19.1307213,18.0960656 20.9005464,12.3479781 20.9005464,9.97112568 C20.9005464,4.69240437 16.3020765,0.397814208 10.6491803,0.397814208 Z" id="Fill-1" fill="url(#linearGradient-1)"></path>
+        <polygon id="Fill-3" fill="url(#linearGradient-2)" points="6.98797814 31.1519126 14.3103825 31.1519126 14.3103825 29.6874317 6.98797814 29.6874317"></polygon>
+        <polygon id="Fill-5" fill="url(#linearGradient-2)" points="6.98797814 34.0808743 14.3103825 34.0808743 14.3103825 32.6163934 6.98797814 32.6163934"></polygon>
+    </g>
+</svg>

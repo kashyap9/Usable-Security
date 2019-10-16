@@ -1,0 +1,21 @@
+Controlled Experiment:
+1.state a lucid, testable hypothesis
+2.Identify independent and dependent variables.
+3.Design the experimental protocol.
+4.Choose user population
+5.Run some pilot experiments.
+6.Choose variables:Dependent and independent
+7.Design experimental protocol:
+*bw subject experiments
+*Within subject experiments
+
+Usability Studies:
+
+A/B Testing:
+
+Measuring usability:
+1. speed
+2.efficiency
+3.learnability
+4.memorability
+5.user preference

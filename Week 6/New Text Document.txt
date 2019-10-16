@@ -1,0 +1,12 @@
+Informed Consent
+Six components:
+1.Disclosure
+2.Comprehension
+3.Voluntariness
+4.Competence
+5.Agreement
+6.Minimal distraction
+
+Pitfalls of Privacy:
+1.Obscuring potential information flow.
+2.Obscuring actual information flow.

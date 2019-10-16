@@ -1,0 +1,10 @@
+Password Attacks:
+1. Human
+2. Brute force
+3. Common word
+4. Dictionary Words
+
+Biometrics:
+1.they are easy and relatively secure.
+2.common on mobile devices but work anywhere
+3.compare usability
